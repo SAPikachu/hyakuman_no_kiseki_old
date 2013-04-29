@@ -1,0 +1,4 @@
+hg+http://hg.secdev.org/scapy@v2.2.0
+six
+PyCrypto
+bson
